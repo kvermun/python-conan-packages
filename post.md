@@ -55,7 +55,7 @@ It can be seen that this recipe would be practically the same for most python pa
 With this recipe, all we have to do is:
 
 ```bash
-$ conan export memsharded/testing
+$ conan export . memsharded/testing
 $ conan search
 ```
 
